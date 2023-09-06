@@ -3,10 +3,10 @@
     <h2>Stats</h2>
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=160 src="https://github-readme-stats.vercel.app/api?username=h9661&show_icons=true&theme=radical">
+        <img width='auto' height=160 src="https://github-readme-stats.vercel.app/api?username=h9661&show_icons=true&theme=radical">
       </a>
       <a href="https://solved.ac/h9661_py/">
-        <img height=160 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h9661_py" />
+        <img width='auto' height=160 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h9661_py" />
       </a>
     </div>
 
