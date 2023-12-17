@@ -13,11 +13,11 @@
   <h2>Education</h2>
   <div>
       <a href="https://github.com/boostcampwm2023">
-        <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16" /> 네이버 부스트캠프 Web 챌린지 과정 2023.07.10 ~ 2023.08.04
+        <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16" /> 네이버 부스트캠프 8기 Web 챌린지 과정 2023.07.10 ~ 2023.08.04
       </a>
     <br>
       <a href="https://github.com/boostcampwm2023">
-        <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16" /> 네이버 부스트캠프 Web 멤버십 과정 2023.08.28 ~ 2023.12.15
+        <img src="https://user-images.githubusercontent.com/39405316/186857877-b1b4c4e2-5e83-433e-922b-73c61dbdf992.png" width="16" /> 네이버 부스트캠프 8기 Web Backend 멤버십 과정 2023.08.28 ~ 2023.12.15
       </a>
   </div>
 </div>
